@@ -20,3 +20,26 @@ em strong {
 #banner {
     width;100%
 }
+.itens{
+   font-style: italic;
+}
+principal {
+   background:#cccccc;
+   padding:30px;
+}
+h2 {
+   text-aling: center;
+}
+.beneficios{
+   background:#ffffff;
+   padding:20px;
+}
+.imagembeneficios {
+   width:50%;
+}
+ul {
+   display:inline-block;
+   vertical-align:top;
+   width: 20%;
+   margin-right:15%
+      
